@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T11:37:16.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="yauovNU3oRiIu6ARu5dx" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T11:38:13.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="iP8quM5uKZcMjzY_kAYY" version="22.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="507" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
             <mxPoint x="820" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="us27jVsJSp4dY-AdVtNz-13" value="Student Verification System" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFFFCC;gradientColor=none;swimlaneFillColor=#FFFFCC;fontColor=#0D0D0D;fontSize=14;strokeColor=#999900;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="us27jVsJSp4dY-AdVtNz-13" value="Student Verification System" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFFFCC;gradientColor=none;swimlaneFillColor=#FFFFCC;fontColor=#0D0D0D;fontSize=14;strokeColor=#999900;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="160" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-14" value="Get Credential" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeColor=#F16C6C;spacingBottom=0;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;html=1;fillColor=#B85450;fontSize=15;strokeWidth=3;fontColor=#F0F0F0;perimeterSpacing=0;rounded=1;" parent="us27jVsJSp4dY-AdVtNz-13" vertex="1">
@@ -60,10 +60,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="us27jVsJSp4dY-AdVtNz-21" value="Credential Manager" style="swimlane;whiteSpace=wrap;html=1;startSize=23;swimlaneFillColor=#FFFFCC;fillColor=#FFFFCC;strokeColor=#999900;fontColor=#303030;fontSize=14;labelBorderColor=none;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="us27jVsJSp4dY-AdVtNz-21" value="Credential Manager" style="swimlane;whiteSpace=wrap;html=1;startSize=23;swimlaneFillColor=#FFFFCC;fillColor=#FFFFCC;strokeColor=#999900;fontColor=#303030;fontSize=14;labelBorderColor=none;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="820" y="160" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="d5F1OUtopnle9YRMQIBL-0" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="us27jVsJSp4dY-AdVtNz-21">
+        <mxCell id="d5F1OUtopnle9YRMQIBL-0" value="" style="shape=datastore;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="us27jVsJSp4dY-AdVtNz-21">
           <mxGeometry x="110" y="100" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d5F1OUtopnle9YRMQIBL-1" value="6. User gives his confirmation for saving the issued credential" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
