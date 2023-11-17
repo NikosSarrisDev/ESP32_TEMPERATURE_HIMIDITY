@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T02:59:26.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="9elValTOhDTVGDvba2MS" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T03:00:32.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="tTivDaTDRRo37LB8TQKq" version="22.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="863" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -16,10 +16,10 @@
         <mxCell id="us27jVsJSp4dY-AdVtNz-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EDFF;strokeColor=#66B2FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="840" width="610" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="us27jVsJSp4dY-AdVtNz-16" value="PESTO Client" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="us27jVsJSp4dY-AdVtNz-16" value="PESTO Client" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="867" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="us27jVsJSp4dY-AdVtNz-18" value="VidP" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Datacenter.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="us27jVsJSp4dY-AdVtNz-18" value="VidP" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Datacenter.svg;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="870" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-19" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Verifier" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fontSize=17;fillColor=#FFFF99;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
