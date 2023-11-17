@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T02:54:29.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="vhon9Ac2s3MkVRzpvhL1" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T02:59:26.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="9elValTOhDTVGDvba2MS" version="22.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1233" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="863" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,28 +8,28 @@
           <mxGeometry x="80" y="450" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-13" value="Student Verification System" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFFF99;gradientColor=none;swimlaneFillColor=#FFFF99;fontColor=#0D0D0D;fontSize=14;strokeColor=#999900;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="200" width="200" height="140" as="geometry" />
+          <mxGeometry x="330" y="160" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-14" value="Get Credential" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeColor=#F16C6C;spacingBottom=0;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;html=1;fillColor=#B85450;fontSize=15;strokeWidth=3;fontColor=#F0F0F0;perimeterSpacing=0;rounded=1;" vertex="1" parent="us27jVsJSp4dY-AdVtNz-13">
           <mxGeometry x="25" y="40" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EDFF;strokeColor=#66B2FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="780" width="610" height="150" as="geometry" />
+          <mxGeometry x="260" y="840" width="610" height="150" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-16" value="PESTO Client" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="807" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="867" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-18" value="VidP" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Datacenter.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="810" width="70" height="70" as="geometry" />
+          <mxGeometry x="510" y="870" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="us27jVsJSp4dY-AdVtNz-19" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Verifier" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="810" width="130" height="90" as="geometry" />
+        <mxCell id="us27jVsJSp4dY-AdVtNz-19" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Verifier" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fontSize=17;fillColor=#FFFF99;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="870" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="us27jVsJSp4dY-AdVtNz-20" value="Policies" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="735" y="827" width="60" height="40" as="geometry" />
+        <mxCell id="us27jVsJSp4dY-AdVtNz-20" value="Policies" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;labelBackgroundColor=none;fontSize=14;fillColor=#B85450;strokeColor=#FF9999;fontColor=#FCFCFC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="745" y="887" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-21" value="Credential Manager" style="swimlane;whiteSpace=wrap;html=1;startSize=23;swimlaneFillColor=#FFFF99;fillColor=#FFFF99;strokeColor=#999900;fontColor=#303030;fontSize=14;labelBorderColor=none;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="800" y="190" width="200" height="200" as="geometry" />
+          <mxGeometry x="820" y="160" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-22" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="us27jVsJSp4dY-AdVtNz-21">
           <mxGeometry x="110" y="80" width="80" height="100" as="geometry" />
