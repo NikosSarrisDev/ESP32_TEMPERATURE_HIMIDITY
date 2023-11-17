@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T14:40:25.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="j-YScWXbze5J7B-V1MgL" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T14:43:47.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="1hbv-MdFO-FmdeK3yQxD" version="22.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="718" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -14,13 +14,13 @@
           <mxGeometry x="490" y="1180" width="60" height="150" as="geometry" />
         </mxCell>
         <mxCell id="9-nCx9hUTQtbn6Ml97aV-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="1330" width="340" height="180" as="geometry" />
+          <mxGeometry x="330" y="1330" width="570" height="180" as="geometry" />
         </mxCell>
         <mxCell id="9-nCx9hUTQtbn6Ml97aV-8" value="Application System" style="swimlane;whiteSpace=wrap;html=1;direction=west;fontSize=14;startSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="1340" width="100" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="9-nCx9hUTQtbn6Ml97aV-9" value="Database" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="1350" width="80" height="130" as="geometry" />
+        <mxCell id="9-nCx9hUTQtbn6Ml97aV-9" value="Database" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="575" y="1350" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="9-nCx9hUTQtbn6Ml97aV-14" value="Student Client" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="1030" width="100" height="110" as="geometry" />
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="9-nCx9hUTQtbn6Ml97aV-41" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1350" y="550" width="130" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="9-nCx9hUTQtbn6Ml97aV-42" value="Application System" style="swimlane;whiteSpace=wrap;html=1;direction=west;fontSize=14;startSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="777" y="1340" width="100" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
