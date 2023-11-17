@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T03:11:31.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="jWyoy0fh2ha_Lx8d7KeO" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T03:13:58.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="x6IBLgMBoNdBW6rUfqWx" version="22.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1015" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -29,6 +29,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="us27jVsJSp4dY-AdVtNz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="us27jVsJSp4dY-AdVtNz-15" target="us27jVsJSp4dY-AdVtNz-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="915" />
+              <mxPoint x="1130" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EDFF;strokeColor=#66B2FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="840" width="610" height="150" as="geometry" />
         </mxCell>
@@ -44,7 +52,7 @@
         <mxCell id="us27jVsJSp4dY-AdVtNz-20" value="Policies" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;labelBackgroundColor=none;fontSize=14;fillColor=#B85450;strokeColor=#FF9999;fontColor=#FCFCFC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="745" y="887" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="us27jVsJSp4dY-AdVtNz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="us27jVsJSp4dY-AdVtNz-21" target="us27jVsJSp4dY-AdVtNz-15">
+        <mxCell id="us27jVsJSp4dY-AdVtNz-36" value="3. Look up issurance policies" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="us27jVsJSp4dY-AdVtNz-21" target="us27jVsJSp4dY-AdVtNz-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="920" y="680" />
