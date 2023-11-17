@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T13:37:27.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="CbwcOlNH9YK94875u2qu" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T13:40:52.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="SmrBmle-NYRi1KtqEA9e" version="22.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="575" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="718" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -54,6 +54,24 @@
         </mxCell>
         <mxCell id="9-nCx9hUTQtbn6Ml97aV-28" value="Student Server Database" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1422.45" y="1042.1" width="55.1" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9-nCx9hUTQtbn6Ml97aV-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="510" width="610" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9-nCx9hUTQtbn6Ml97aV-31" value="PESTO Client" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="537" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9-nCx9hUTQtbn6Ml97aV-32" value="VidP" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Datacenter.svg;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="540" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9-nCx9hUTQtbn6Ml97aV-33" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Verifier" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fontSize=17;fillColor=#FFFF99;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1210" y="540" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9-nCx9hUTQtbn6Ml97aV-34" value="Policies" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;labelBackgroundColor=none;fontSize=14;fillColor=#B85450;strokeColor=#FF9999;fontColor=#FCFCFC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1245" y="550" width="60" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="9-nCx9hUTQtbn6Ml97aV-35" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.policy" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1210" y="547" width="50" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
