@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T02:25:23.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="t3_OekvgYHGna9MvTZzS" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T02:30:47.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="yrrzxwZmT1eWlYWbfLih" version="22.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="842" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1203" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,25 +8,31 @@
           <mxGeometry x="80" y="450" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-13" value="Student Verification System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="280" width="200" height="140" as="geometry" />
+          <mxGeometry x="320" y="200" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-14" value="Get Credential" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#FFBA30;" vertex="1" parent="us27jVsJSp4dY-AdVtNz-13">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="680" width="500" height="150" as="geometry" />
+          <mxGeometry x="250" y="780" width="610" height="150" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-16" value="PESTO Client" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="700" width="80" height="80" as="geometry" />
+          <mxGeometry x="280" y="800" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-18" value="VidP" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Datacenter.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="402.5" y="712.5" width="55" height="55" as="geometry" />
+          <mxGeometry x="500" y="810" width="77.5" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-19" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Verifier" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="710" width="130" height="90" as="geometry" />
+          <mxGeometry x="700" y="810" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-20" value="Policies" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="565" y="727.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="735" y="827" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="us27jVsJSp4dY-AdVtNz-21" value="Credential Manager" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="190" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="us27jVsJSp4dY-AdVtNz-22" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="us27jVsJSp4dY-AdVtNz-21">
+          <mxGeometry x="110" y="80" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
