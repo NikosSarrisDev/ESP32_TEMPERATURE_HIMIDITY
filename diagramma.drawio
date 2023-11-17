@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T11:41:34.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="lTw6HO_S6Pu4TDj4NfSt" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T11:42:27.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="Rr_gp1kYMEZw4DKqwpkg" version="22.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="507" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="us27jVsJSp4dY-AdVtNz-13" value="Student Verification System" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFFFCC;gradientColor=none;swimlaneFillColor=#FFFFCC;fontColor=#0D0D0D;fontSize=14;strokeColor=#999900;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="160" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="us27jVsJSp4dY-AdVtNz-14" value="Get Credential" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeColor=#F16C6C;spacingBottom=0;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;html=1;fillColor=#B85450;fontSize=15;strokeWidth=3;fontColor=#F0F0F0;perimeterSpacing=0;rounded=1;" parent="us27jVsJSp4dY-AdVtNz-13" vertex="1">
+        <mxCell id="us27jVsJSp4dY-AdVtNz-14" value="Get Credential" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeColor=#FF9999;spacingBottom=0;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;html=1;fillColor=#B85450;fontSize=15;strokeWidth=3;fontColor=#F0F0F0;perimeterSpacing=0;rounded=1;" parent="us27jVsJSp4dY-AdVtNz-13" vertex="1">
           <mxGeometry x="25" y="40" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-29" value="4.Token Validation" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;spacing=2;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="us27jVsJSp4dY-AdVtNz-15" target="us27jVsJSp4dY-AdVtNz-21" edge="1">
@@ -50,7 +50,7 @@
           <mxGeometry x="710" y="870" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-20" value="Policies" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;labelBackgroundColor=none;fontSize=14;fillColor=#B85450;strokeColor=#FF9999;fontColor=#FCFCFC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="745" y="887" width="60" height="40" as="geometry" />
+          <mxGeometry x="745" y="880" width="60" height="47" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-36" value="3. Look up issurance policies" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="us27jVsJSp4dY-AdVtNz-21" target="us27jVsJSp4dY-AdVtNz-15" edge="1">
           <mxGeometry relative="1" as="geometry">
