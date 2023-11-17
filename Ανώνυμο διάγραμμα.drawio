@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T14:36:43.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="S02tTtiZTMIKrK2aFV_L" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T14:36:59.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="OUsrxKeu036elWKXK1yU" version="22.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="507" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="9-nCx9hUTQtbn6Ml97aV-33" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Verifier" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fontSize=17;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1170" y="540" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="9-nCx9hUTQtbn6Ml97aV-34" value="Policies" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;labelBackgroundColor=none;fontSize=14;fillColor=none;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="9-nCx9hUTQtbn6Ml97aV-34" value="Policies" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;labelBackgroundColor=none;fontSize=14;fillColor=none;strokeColor=#030303;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1205" y="550" width="60" height="47" as="geometry" />
         </mxCell>
         <mxCell id="9-nCx9hUTQtbn6Ml97aV-35" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.policy" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
