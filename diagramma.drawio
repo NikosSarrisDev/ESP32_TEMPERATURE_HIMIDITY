@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T03:03:51.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="dm6dp3wBsM6AwBJXznNA" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T03:06:47.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="pYdT5BzekNqKZJ4Iyiq1" version="22.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="863" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="us27jVsJSp4dY-AdVtNz-0" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="450" width="40" height="90" as="geometry" />
+        <mxCell id="us27jVsJSp4dY-AdVtNz-27" value="1. User Login" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="us27jVsJSp4dY-AdVtNz-0" target="us27jVsJSp4dY-AdVtNz-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="us27jVsJSp4dY-AdVtNz-0" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="390" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="us27jVsJSp4dY-AdVtNz-13" value="Student Verification System" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFFF99;gradientColor=none;swimlaneFillColor=#FFFF99;fontColor=#0D0D0D;fontSize=14;strokeColor=#999900;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="160" width="200" height="140" as="geometry" />
