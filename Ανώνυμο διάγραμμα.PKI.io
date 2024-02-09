@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T13:12:50.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="-pzeoLSD9pEZNaINHiNC" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T13:13:52.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="Pj7hwsY0UmscEy3KLKcA" version="23.1.2" type="github">
   <diagram name="Σελίδα-1" id="0G7bWAfL6uG1BA7Bpt6u">
     <mxGraphModel dx="2033" dy="1239" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="dgjPWe126WDqp7FR-0UB-15" value="Αποκρυπτογράφηση με το ιδιωτικό κλειδί" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-120" y="24" width="50" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="dgjPWe126WDqp7FR-0UB-16" value="Ψηφιακό Διαπιστευτήριο" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.certificate;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="270" y="161" width="139" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
