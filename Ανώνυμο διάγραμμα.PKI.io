@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T14:37:59.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="Lk1QRQxZxQoZL6eKcDrb" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T14:38:21.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="CjAS8MapK5zM8wRrZDqs" version="23.1.2" type="github">
   <diagram name="Σελίδα-1" id="0G7bWAfL6uG1BA7Bpt6u">
     <mxGraphModel dx="2033" dy="1239" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
           <mxGeometry x="699" y="235" width="140" height="112" as="geometry" />
         </mxCell>
         <mxCell id="dgjPWe126WDqp7FR-0UB-21" value="Μόλις πιστοποιηθεί η ταυτότητα ενός χρήστη τότε μια αρχή πιστοποίησης εκδίδει το ψηφιακό διαπιστευτήριο" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="444" y="333" width="252" height="187" as="geometry" />
+          <mxGeometry x="444" y="295" width="252" height="187" as="geometry" />
         </mxCell>
         <mxCell id="dgjPWe126WDqp7FR-0UB-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;curved=1;startSize=8;endSize=8;" edge="1" parent="1" source="dgjPWe126WDqp7FR-0UB-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
