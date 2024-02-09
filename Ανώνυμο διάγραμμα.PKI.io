@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T13:03:48.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="fhrmeRkawgCg5oa3mywD" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T13:06:27.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="9E8tKeNnUaKmyJI2lD6A" version="23.1.2" type="github">
   <diagram name="Σελίδα-1" id="0G7bWAfL6uG1BA7Bpt6u">
     <mxGraphModel dx="2033" dy="1239" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -22,14 +22,14 @@
         <mxCell id="dgjPWe126WDqp7FR-0UB-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.account_portal;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="123" y="-26" width="43" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dgjPWe126WDqp7FR-0UB-4" value="Encrypt with Public Key" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.key_permissions;fontSize=16;direction=south;" vertex="1" parent="1">
+        <mxCell id="dgjPWe126WDqp7FR-0UB-4" value="Κρυπτογράφηση με το δημόσιο κλειδί" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.key_permissions;fontSize=16;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-120" y="-76" width="50" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="dgjPWe126WDqp7FR-0UB-12" value="Decrypt with Private Key" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.key_permissions;fontSize=16;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="19" width="50" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dgjPWe126WDqp7FR-0UB-14" value="Πως&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="294" y="-123" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dgjPWe126WDqp7FR-0UB-15" value="Αποκρυπτογράφηση με το ιδιωτικό κλειδί" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="24" width="50" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
