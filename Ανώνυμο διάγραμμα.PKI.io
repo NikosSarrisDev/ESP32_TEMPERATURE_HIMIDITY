@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T13:15:55.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="OQCRTMACc5jAjndSNaw7" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T13:33:40.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="6tmUD7Sr9wcwSkiaqZLY" version="23.1.2" type="github">
   <diagram name="Σελίδα-1" id="0G7bWAfL6uG1BA7Bpt6u">
     <mxGraphModel dx="2033" dy="1239" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -42,6 +42,18 @@
               <mxPoint x="142" y="267" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dgjPWe126WDqp7FR-0UB-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="699" y="267" as="sourcePoint" />
+            <mxPoint x="420" y="267" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgjPWe126WDqp7FR-0UB-18" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Home.svg;" vertex="1" parent="1">
+          <mxGeometry x="699" y="235" width="140" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="dgjPWe126WDqp7FR-0UB-21" value="Μόλις πιστοποιηθεί η ταυτότητα ενός χρήστη τότε μια αρχή πιστοποίησης εκδίδει το ψηφιακό διαπιστευτήριο" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="444" y="333" width="252" height="187" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
